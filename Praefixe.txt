@@ -9,7 +9,7 @@ Form			frm_
 Richtextbox		rtf_
 Checkbox		chk_
 Modul			mod_
-Klassenmodul	cls_
+Klassenmodul	        cls_
 Checkbox		chk_
 
 VARIABLEN:
