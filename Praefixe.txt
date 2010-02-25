@@ -1,0 +1,34 @@
+﻿STEUERELEMENTE:
+##############################################
+Button			cmd_
+Textbox			txt_
+Label			lbl_
+Picturebox		pic_
+Timer			tmr_
+Form			frm_
+Richtextbox		rtf_
+Checkbox		chk_
+Modul			mod_
+Klassenmodul	cls_
+Checkbox		chk_
+
+VARIABLEN:
+##############################################
+Boolean			bln_
+Byte			byt_
+Collection		col_
+Currency		cur_
+Date			dtm_
+Double			dbl_
+Error			err_
+Integer			int_
+Long			lng_
+Object			obj_
+Single			sng_
+String			str_
+Varian			vnt_
+Benuterdef.		udt_
+
+STAND:
+##############################################
+25.02.2010

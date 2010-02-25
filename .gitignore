@@ -1,0 +1,32 @@
+# Dateien
+##############################################
+*.user
+*.daa
+*.pdb
+*.application
+*.db
+*.obj
+*.pch
+*.htm
+*.ncb
+*.dep
+*.res
+*.idb
+*.resources
+*.cod
+*.aps
+*.config
+
+# Dateien in einem speziellen Ordner
+##############################################
+# ...
+
+# Ordner
+##############################################
+bin
+Release
+Debug
+obj
+
+# Stand: 25.02.2010
+##############################################
